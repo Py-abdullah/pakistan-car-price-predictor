@@ -1,0 +1,11 @@
+title,price,mileage,year,location,engine,transmission,price_clean,mileage_clean,location_clean,engine_clean
+Toyota Corolla GLi,"Rs 4,850,000",78000 km,2018,Lahore,1300cc,Automatic,4850000.0,78000.0,lahore,1300
+Honda Civic 1.8,52 lacs,65k,2019,LHR,1800 cc,Auto,5200000.0,65000.0,lahore,1800
+Suzuki Alto VXL,"Rs. 2,750,000","45,500 KM",2020,Lahore,660cc,Automatic,2750000.0,45500.0,lahore,660
+Toyota Yaris ATIV,3.9 million,"32,000",2021,Islamabad,1500 cc,Automatic,3900000.0,32000.0,islamabad,1500
+Honda City Aspire,38 lacs,72000 km,2017,Lahore,1500cc,Manual,3800000.0,72000.0,lahore,1500
+Suzuki Wagon R,25 lacs,55k,2019,LHR,1000 cc,Manual,2500000.0,55000.0,lahore,1000
+Toyota Corolla Altis,"Rs 5,200,000","40,000 KM",2020,Lahore,1800cc,Automatic,5200000.0,40000.0,lahore,1800
+Honda Civic Oriel,6.2 million,28k,2021,Islamabad,1800 cc,Automatic,6200000.0,28000.0,islamabad,1800
+Suzuki Cultus VXL,29 lacs,"60,000 km",2018,Lahore,1000cc,Manual,2900000.0,60000.0,lahore,1000
+Toyota Vitz,32 lacs,50k,2016,Karachi,1000 cc,Automatic,3200000.0,50000.0,karachi,1000
